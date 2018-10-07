@@ -10,11 +10,23 @@ A partir del compilador de Solidity y habilitando siempre la optimización. Obte
 
 A partir del siguiente código y haciendo uso del compilador web Remix 
 
+
 pragma solidity ^0.4.11;
-contract Cincuenta{
-    uint256 public T;
+contract multiplica{
+    uint256 T;
+    uint256 P;
+    uint256 R;
     constructor () public {
-        T = 25*2;
+        T = 10;
+        P = 5;
+    }
+    
+    function producto() public{
+        R = T*P;
+    }
+    
+    function multiplicacion() public{
+        R = R*2;
     }
 }
 
