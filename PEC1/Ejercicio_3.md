@@ -1,5 +1,10 @@
 
-
+Obtenga un contrato inteligente que haya utilizado anteriormente o desarrolle uno tan
+simple como pueda.
+A partir del compilador de Solidity y habilitando siempre la optimización. Obtenga:
+- Códigos de operación del contrato inteligente.
+- Identificadores de las funciones que existan dentro del contrato inteligente.
+- Estimación del gas utilizado por cada función
 
 
 
@@ -25,4 +30,13 @@ PUSH1 0x68 JUMP JUMPDEST PUSH1 0x40 DUP1 MLOAD SWAP2 DUP3 MSTORE MLOAD PUSH1 0x2
 SWAP1 SUB SWAP1 RETURN JUMPDEST PUSH1 0x0 SLOAD DUP2 JUMP STOP LOG1 PUSH6 0x627A7A723058 KECCAK256 SELFDESTRUCT 
 JUMPDEST CALLDATASIZE CALLDATACOPY PUSH6 0x44200B728FC9 0x49 0xd1 0xe0 SSTORE PUSH16 0xECF9B4E4D67F3A5BBDA1BF8A4C124CBE 
 STOP 0x29 ",
-![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/c%C3%B3digos%20de%20operaci%C3%B3n.png "Comando de operación")
+![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/3_codigos%20de%20operaci%C3%B3n.png "Comandos de operación")
+
+2. Los identificadores de función son:
+![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/3_identificadores%20de%20funciones.png "Identificadores Hash de las funciones")
+
+3. La estimación de gasto de gas de cada función es:
+
+![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/3_estimacion%20de%20gas%20por%20funcion.png "Consumo de Gas por función")
+
+
