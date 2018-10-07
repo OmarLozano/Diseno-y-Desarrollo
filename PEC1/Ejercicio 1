@@ -1,0 +1,14 @@
+![alt text]("Construya y configure su propia blockchain a partir de un archivo génesis que usted
+mismo debe definir. Se recomienda el uso del cliente Geth.
+Cree una cuenta mediante el cliente Geth y consiga su propio Ether a partir de la minería.
+Si realiza instrucciones adicionales dentro del cliente, se valorará positivamente.
+Entrega: Archivo génesis y pantallazo del cliente Geth al inicio de la sincronización donde
+se puedan observar todos los parámetros del nodo. Además debe presentar un
+pantallazo del balance de la cuenta creada. Hacer referencia a estos pantallazos en un
+archivo .md referente al ejercicio 1.")
+
+
+![alt text]("Archivo Génesis")
+
+
+
