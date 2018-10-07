@@ -1,4 +1,4 @@
-1. Construya y configure su propia blockchain a partir de un archivo génesis que usted
+Construya y configure su propia blockchain a partir de un archivo génesis que usted
 mismo debe definir. Se recomienda el uso del cliente Geth.
 Cree una cuenta mediante el cliente Geth y consiga su propio Ether a partir de la minería.
 Si realiza instrucciones adicionales dentro del cliente, se valorará positivamente.
