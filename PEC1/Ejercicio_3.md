@@ -8,11 +8,12 @@ A partir del compilador de Solidity y habilitando siempre la optimización. Obte
 
 
 
-A partir del siguiente código y haciendo uso del compilador web Remix 
+A partir del siguiente código y haciendo uso del compilador web Remix.
 
+Pragma solidity ^0.4.11;
 
-pragma solidity ^0.4.11;
-contract multiplica{
+contract multiplica {
+
     uint256 T;
     uint256 P;
     uint256 R;
