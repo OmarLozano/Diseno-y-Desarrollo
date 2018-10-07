@@ -26,7 +26,7 @@ $admin.peers
 Y para obtener el número de nodos conectados usamos el sguiente comando en la consola
 
 $admin.peers.length
-![Alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/info%20numero%20de%20nodos.png" Iniciando nodo light")
+![Alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/info%20numero%20de%20nodos.png "Iniciando nodo light")
 
 4.Para obtener la altura máxima del bloque entre los peers, se realiza a través del siguiente comando en consola
 
