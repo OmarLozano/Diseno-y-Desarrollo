@@ -36,12 +36,12 @@ A partir del siguiente ficherp y haciendo uso del compilador de solidity.
 
     $sudo npm install -g solc 
 
-2.En segundo lugar generamos el archivo binario y realizamos su depuración a través del compilador de EVM.
+2. En segundo lugar generamos el archivo binario y realizamos su depuración a través del compilador de EVM.
 
 ![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/3_comando_c%C3%B3digos_operaci%C3%B3n.png "Comandos de operación")
 
 
-El resultado en consola nos indica cada operación y su respectivo consumo de gas:
+3. El resultado en consola nos indica cada operación y su respectivo consumo de gas:
 
 
 omar@omar-OMEN-by-HP-Laptop:~/test$ solcjs --optimize --bin contrato.solomar@omar-OMEN-by-HP-Laptop:~/test$ evm --debug --codefile contrato_sol_Counter.bin run
