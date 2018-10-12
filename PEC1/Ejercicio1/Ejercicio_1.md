@@ -38,10 +38,10 @@ El archivo genésis_omar,json, se  configuró ingresando los sisguientes valores
 ![Alt text]( https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/Ejercicio1/1_Creaci%C3%B3n%20cuenta%20nueva%20en%20geth.png
 "Optional Title")
 3.Inicializando Blockchain a partir de archivo génesis_omar.json:
- ![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/Iniciando%20Blockchain.png "Inicializando Blockchain")
+ ![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/Ejercicio1/1_Iniciando%20Blockchain.png "Inicializando Blockchain")
 
 4.Ingresamos a la consola:
-![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/Ingresando%20a%20la%20consola.png "Ingresando a la consola")
+![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/Ejercicio1/1_Ingresando%20a%20la%20consola.png "Ingresando a la consola")
  
 4.Desde la consola verificamos el saldo de nuestra cuenta nueva y le indicamos que será la cuenta que reciba las recompensas de minado:
 
@@ -49,5 +49,5 @@ El archivo genésis_omar,json, se  configuró ingresando los sisguientes valores
 
 5.Iniciamos el minado y verificamos el saldo de nuestra nueva cuenta:
 
-![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/Comienzo%20de%20minado%20NC.png "Comienzo del Minado")
-![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/Balance%20CN%20depu%C3%A9s%20de%20minado.png "Verificación del saldo en la nueva cuenta después del minado")
+![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/Ejercicio1/1_Proceso%20de%20minado.png "Comienzo del Minado")
+![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/Ejercicio1/1_Balance%20CN%20depu%C3%A9s%20de%20minado.png "Verificación del saldo en la nueva cuenta después del minado")
