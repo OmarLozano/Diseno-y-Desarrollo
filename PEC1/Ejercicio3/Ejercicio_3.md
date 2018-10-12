@@ -38,7 +38,7 @@ A partir del siguiente ficherp y haciendo uso del compilador de solidity.
 
 2. En segundo lugar generamos el archivo binario y realizamos su depuración a través del compilador de EVM.
 
-![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/3_comando_c%C3%B3digos_operaci%C3%B3n.png "Comandos de operación")
+![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/Ejercicio3/3_comando_c%C3%B3digos_operaci%C3%B3n.png "Comandos de operación")
 
 
 3. El resultado en consola nos indica cada operación y su respectivo consumo de gas:
