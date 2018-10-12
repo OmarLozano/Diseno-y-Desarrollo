@@ -37,10 +37,10 @@ El archivo genésis_omar,json, se  configuró ingresando los sisguientes valores
 2.Creación de la cuenta nueva en geth:
 ![Alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/creaci%C3%B3n%20cuenta%20nueva%20en%20geth.png "Optional Title")
 3.Inicializando Blockchain a partir de archivo génesis_omar.json:
- ![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/Iniciando%20Blockchain.png"Inicializando Blockchain")
+ ![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/Iniciando%20Blockchain.png "Inicializando Blockchain")
 
 4.Ingresamos a la consola:
-![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/Ingresando%20a%20la%20consola.png"Ingresando a la consola")
+![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/Ingresando%20a%20la%20consola.png "Ingresando a la consola")
  
 4.Desde la consola verificamos el saldo de nuestra cuenta nueva y le indicamos que será la cuenta que reciba las recompensas de minado:
 
