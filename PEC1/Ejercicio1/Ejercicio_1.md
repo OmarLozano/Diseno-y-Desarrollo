@@ -45,7 +45,7 @@ El archivo genésis_omar,json, se  configuró ingresando los sisguientes valores
  
 4.Desde la consola verificamos el saldo de nuestra cuenta nueva y le indicamos que será la cuenta que reciba las recompensas de minado:
 
-![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/Asignando%20recompensa%20a%20nueva%20cuenta.png "Asignando recompensa a cuenta nueva")
+![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/Ejercicio1/1_Asignando%20recompensa%20a%20nueva%20cuenta.png "Asignando recompensa a cuenta nueva")
 
 5.Iniciamos el minado y verificamos el saldo de nuestra nueva cuenta:
 
