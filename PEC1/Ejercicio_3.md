@@ -34,9 +34,9 @@ A partir del siguiente ficherp y haciendo uso del compilador de solidity.
 
 1. En primer lugar instalamos el compilador
 
-    $sudo npm install -g solc //instalar el compilador de solidity
+    $sudo npm install -g solc 
 
-2.En segundo lugar generrmos el archivo binario y realizamos su depuración a través del compilador de EVM.
+2.En segundo lugar generamos el archivo binario y realizamos su depuración a través del compilador de EVM.
 
 ![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/3_comando_c%C3%B3digos_operaci%C3%B3n.png "Comandos de operación")
 
