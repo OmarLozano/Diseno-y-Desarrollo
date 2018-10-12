@@ -6,9 +6,11 @@ A partir del compilador de Solidity y habilitando siempre la optimización. Obte
 - Identificadores de las funciones que existan dentro del contrato inteligente.
 - Estimación del gas utilizado por cada función
 
+1. En primer lugar instalamos el compilador
 
-
-A partir del siguiente ficherp y haciendo uso del compilador de solidity.
+    $sudo npm install -g solc 
+    
+2. A partir del siguiente fichero contrato.sol y haciendo uso del compilador de solidity.
 
     Pragma solidity ^0.4.11;
 
@@ -30,13 +32,9 @@ A partir del siguiente ficherp y haciendo uso del compilador de solidity.
     function multiplicacion() public{
         R = R*2;
     }
-}
+}    
 
-1. En primer lugar instalamos el compilador
-
-    $sudo npm install -g solc 
-
-2. En segundo lugar generamos el archivo binario y realizamos su depuración a través del compilador de EVM.
+ generamos el archivo binario y realizamos su depuración a través del compilador de EVM.
 
 ![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/Ejercicio3/3_comando_c%C3%B3digos_operaci%C3%B3n.png "Comandos de operación")
 
