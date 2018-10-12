@@ -38,7 +38,7 @@ A partir del siguiente ficherp y haciendo uso del compilador de solidity.
 
 2.En segundo lugar generrmos el archivo binario y realizamos su depuración a través del compilador de EVM.
 
-![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/3_codigos%20de%20operaci%C3%B3n.png "Comandos de operación")
+![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/3_comando_c%C3%B3digos_operaci%C3%B3n.png "Comandos de operación")
 
 
 El resultado en consola nos indica cada operación y su respectivo consumo de gas:
@@ -340,13 +340,6 @@ Storage:
 
 #### LOGS ####
 
-![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/3_codigos%20de%20operaci%C3%B3n.png "Comandos de operación")
 
-2. Los identificadores de función son:
-![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/3_identificadores%20de%20funciones.png "Identificadores Hash de las funciones")
-
-3. La estimación de gasto de gas de cada función es:
-
-![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/3_estimacion%20de%20gas%20por%20funcion.png "Consumo de Gas por función")
 
 
