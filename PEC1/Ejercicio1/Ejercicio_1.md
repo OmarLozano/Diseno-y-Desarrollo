@@ -35,7 +35,7 @@ El archivo genésis_omar,json, se  configuró ingresando los sisguientes valores
 }
 
 2.Creación de la cuenta nueva en geth:
-![Alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/creaci%C3%B3n%20cuenta%20nueva%20en%20geth.png "Optional Title")
+![Alt text](https://github.com/OmarLozano/Diseno-y Desarrollo/blob/master/PEC1/Ejercicio1/1_Creaci%C3%B3n%20cuenta%20nueva%20en%20geth.png "Optional Title")
 3.Inicializando Blockchain a partir de archivo génesis_omar.json:
  ![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC1/Iniciando%20Blockchain.png "Inicializando Blockchain")
 
