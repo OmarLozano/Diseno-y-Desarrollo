@@ -42,7 +42,7 @@ duración de 28 días
   
   una vez hemos desbloqueado la cuenta realizamos el registro del nuevo dominio
   
-   ![Alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%201/PEC2_1_desbloquear%20cuenta_registrat%20_dominio.png "Sincronizando nodo en modo ligero")
+   ![Alt text](https://github.com/OmarLozano/Diseno-y Desarrollo/blob/master/PEC2/Ejercicio%201/PEC2_1_desbloquear%20cuenta_registrat%20_dominio.png "Sincronizando nodo en modo ligero")
    
    6. finalmente a través del public resolver, indicamos que el Domino creado debe ser asignado a nuestra cuenta en rinkeby.
    Se realiza siguiendo 4 pasos
