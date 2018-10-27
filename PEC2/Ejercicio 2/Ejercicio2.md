@@ -57,9 +57,8 @@ Para esta pec se ha utilizado una truffle project para realizar votaciones a dos
  
  Se actualiza el estado de las votaciones al validar la transacción con Metamask
  
- ![alt text](https://github.com/OmarLozano/Diseno-y- Desarrollo/blob/master/PEC2/Ejercicio%202/PEC2_2Voto_registrado_candidato2.png)
+ ![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%202/PEC2_2Voto_registrado_candidato2.png)
  
- ![alt text](https://github.com/OmarLozano/Diseno-y- Desarrollo/blob/master/PEC2/Ejercicio%202/PEC2_2Voto_registrado_candidato2.png)
  
   
   
