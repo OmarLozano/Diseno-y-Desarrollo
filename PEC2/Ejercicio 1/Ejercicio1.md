@@ -38,7 +38,7 @@ duración de 28 días
   5. Una vez hemos verificado que el domnio se encuentra disponible, debemos proceder a registrar el Dominio, habilitando primero nuestra cuenta creada en la testnet de rinkeby, y en este caso al no tener saldo transmitiendo desde mi cuenta anterior tokens para poder pagar la transacción. Siempre se pueden solicitar tokens desde metamask para poder operar las pruebas.
   
  
-  ![Alt text](  https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%201/PEC2_1_Desbloqueo%20de%20cuenta.png "Desbloqueo de la cuenta"
+  ![Alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%201/PEC2_1_Desbloqueo%20de%20cuenta.png "Desbloqueo de la cuenta"
   
   una vez hemos desbloqueado la cuenta realizamos el registro del nuevo dominio
   
@@ -47,10 +47,10 @@ duración de 28 días
    6. finalmente a través del public resolver, indicamos que el Domino creado debe ser asignado a nuestra cuenta en rinkeby.
    Se realiza siguiendo 4 pasos
    
-   1. Habilitamos nuestra cuenta
-   2.Utilizamos el resolutor indicado a través del tutorial de michalzalecki para establecerle una dirección
-   3.Modificamos la dirección owner del ENS apuntando a la nuestra
-   4 verificamos que coincida.
+    1. Habilitamos nuestra cuenta
+    2.Utilizamos el resolutor indicado a través del tutorial de michalzalecki para establecerle una dirección
+    3.Modificamos la dirección owner del ENS apuntando a la nuestra
+    4 verificamos que coincida.
    
    ![Alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%201/PEC2_1_Asignando_dominio_a_cuenta.png "Sincronizando nodo en modo ligero")
    
@@ -58,4 +58,4 @@ duración de 28 días
   
   
   
-   ![Alt text]( "Sincronizando nodo en modo ligero")
+
