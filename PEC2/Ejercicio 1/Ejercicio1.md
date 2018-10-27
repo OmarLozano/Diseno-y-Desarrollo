@@ -16,7 +16,7 @@ duración de 28 días
  
  2. Una vez hemos logrado sincronizar nuestro nodo, debemos ingresar a la consola
  
- 
+  ![Alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%201/PEC2_1_entrando%20consola.png "Cargando ensutils-testnet")
  
  3. Haciendo uso de diferentes tutoriales publicados en la red (https://michalzalecki.com/register-test-domain-with-ens/, https://github.com/ensdomains/ens/blob/master/docs/quickstart.rst) procedemos a descargar el archivo ensutils-testnet.js, y a realizar las modificaciones en las direcciones de acuerdo a lo que se indica para la red Rinkeby.
  
