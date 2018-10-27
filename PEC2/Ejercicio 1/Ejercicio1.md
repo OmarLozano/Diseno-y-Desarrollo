@@ -20,9 +20,9 @@ duración de 28 días
  
  3. Haciendo uso de diferentes tutoriales publicados en la red (https://michalzalecki.com/register-test-domain-with-ens/, https://github.com/ensdomains/ens/blob/master/docs/quickstart.rst) procedemos a descargar el archivo ensutils-testnet.js, y a realizar las modificaciones en las direcciones de acuerdo a lo que se indica para la red Rinkeby.
  
- Entrando al paquete en la línea "contract address" (línea 220) se debe cambiar la dirección introduciendo la siguiente: "0xe7410170f87102df0055eb195163a03b7f2bff4a". de igual forma debemos realizar un cambio de dirección en la línea "publicResolver" por la dirección: "0x5d20cf83cb385e06d2f2a892f9322cd4933eacdc".
+ Entrando al fichero encontraremos la línea "contract address" (línea 220), la cual se debe cambiar por la dirección: "0xe7410170f87102df0055eb195163a03b7f2bff4a". De igual forma debemos realizar un cambio de dirección en la línea "publicResolver" por la dirección: "0x5d20cf83cb385e06d2f2a892f9322cd4933eacdc".
  
- Una vez hemos realizado los cambios, desde la consola realizamos la carga del fichero ensutils-tesnet.js tal y como se muestra a conitnuación
+ Una vez hemos realizado los cambios, desde la consola realizamos la carga del fichero ensutils-tesnet.js tal y como se muestra a continuación
  
   ![Alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%201/PEC2_1_cargando_ensutils.png "Cargando ensutils-testnet")
   
@@ -35,14 +35,14 @@ duración de 28 días
   
   ![Alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%201/PEC2_1Consulta_Disponibilidad_Dominio.png "Comporbando disponibilidad del dominio")
   
-  5. Una vez hemos verificado que el domnio se encuentra disponible, debemos proceder a registrar el Dominio, habilitando primero nuestra cuenta creada en la testnet de rinkeby, y en este caso al no tener saldo transmitiendo desde mi cuenta anterior tokens para poder pagar la transacción. Siempre se pueden solicitar tokens desde metamask para poder operar las pruebas.
+  5. Una vez hemos verificado que el domnio se encuentra disponible, debemos proceder a registrar el Dominio, habilitando primero nuestra cuenta creada en la testnet de rinkeby, y en este caso si no tenemos saldo suficiente podemos transmitirlo desde otra cuenta con tokens o siempre se pueden solicitar desde metamask para poder operar las pruebas.
   
   
   ![Alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%201/PEC2_1_Desbloqueo%20de%20cuenta.png "Desbloquear cuenta")
   
 
   
-  una vez hemos desbloqueado la cuenta realizamos el registro del nuevo dominio
+  Una vez hemos desbloqueado la cuenta realizamos el registro del nuevo dominio
   
   
   ![Alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%201/PEC2_1_desbloquear%20cuenta_registrat%20_dominio.png "Desbloquear cuenta y registra Dominio")
