@@ -39,25 +39,22 @@ Para esta pec se ha utilizado una truffle project para realizar votaciones a dos
   
   6.De la lista que nos genera al subir el fichero, tomamos la ultima dirección y la publicamos en IPFS, para que nos devuelva en enlace de consulta
   
-  ![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%202/PEC2_2_GenerandoURL_IPFS.png)
+  ![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%202/PEC2_2_Asignando_url_IPFS.png)
   
-  7. Procedemos a consultar el repositorio en IPFS y a verificar el 
-60
- ![alt text](https://github.com/OmarLozano/Diseno-y- Desarrollo/blob/master/PEC2/Ejercicio%202/PEC2_2Voto_registrado_candidato2.png)funcionamiento de nuestra Daap.
+  7. Procedemos a consultar el repositorio en IPFS y a verificar el funcionamiento de nuestra Daap.
   
- ![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%202/PEC2_2_Daap_IPFS.png)
- 
- 
+ ![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%202/PEC2_2_Dapp_en_IPFS.png)
+![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%202/PEC2_2_Votando_Dapp.png)
  
  Verificamos que la Daap nos permita generar validar transacciones a través de Metamask
  
  
-  ![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%202/PEC2_2_Metamask__funcionando.png)
+  ![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%202/PEC2_2_Metamask_funcionanado.png)
  
  
  Se actualiza el estado de las votaciones al validar la transacción con Metamask, y además dado que se ha programado para un único voto, no nos permite realizar más votos con la cuenta que se imprime en pantalla
  
- ![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%202/PEC2_2Voto_registrado_candidato2.png)
+ ![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%202/PEC2_2_Voto_realizado.png)
  
  
   
