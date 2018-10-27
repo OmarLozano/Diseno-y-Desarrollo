@@ -30,22 +30,22 @@ duración de 28 días
   
   -new Date(testRegistrar.expiryTimes(web3.sha3('Dominio_Omar_Blockchain'))-toNumber() * 1000)
   
-  Si el comando nos devuelve una fecha anterior de la actual, quiere decir que no ha sido utilizado est dominio, por locual lo podemo usar.
+  Si el comando nos devuelve una fecha anterior de la actual, quiere decir que no ha sido utilizado este dominio, por lo cual lo podemos usar.
   
   
-  ![Alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%201/PEC2_1Consulta_Disponibilidad_Dominio.png "Cargando ensutils-testnet")
+  ![Alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%201/PEC2_1Consulta_Disponibilidad_Dominio.png "Comporbando disponibilidad del dominio")
   
   5. Una vez hemos verificado que el domnio se encuentra disponible, debemos proceder a registrar el Dominio, habilitando primero nuestra cuenta creada en la testnet de rinkeby, y en este caso al no tener saldo transmitiendo desde mi cuenta anterior tokens para poder pagar la transacción. Siempre se pueden solicitar tokens desde metamask para poder operar las pruebas.
   
   
-  ![Alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%201/PEC2_1_Desbloqueo%20de%20cuenta.png "Cargando ensutils-testnet")
+  ![Alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%201/PEC2_1_Desbloqueo%20de%20cuenta.png "Desbloquear cuenta")
   
 
   
   una vez hemos desbloqueado la cuenta realizamos el registro del nuevo dominio
   
   
-  ![Alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%201/PEC2_1_desbloquear%20cuenta_registrat%20_dominio.png "Sincronizando nodo en modo ligero")
+  ![Alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%201/PEC2_1_desbloquear%20cuenta_registrat%20_dominio.png "Desbloquear cuenta y registra Dominio")
   
    
    
