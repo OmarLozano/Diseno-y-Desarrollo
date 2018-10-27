@@ -37,7 +37,7 @@ duración de 28 días
   
   5. Una vez hemos verificado que el domnio se encuentra disponible, debemos proceder a registrar el Dominio, habilitando primero nuestra cuenta creada en la testnet de rinkeby, y en este caso al no tener saldo transmitiendo desde mi cuenta anterior tokens para poder pagar la transacción. Siempre se pueden solicitar tokens desde metamask para poder operar las pruebas.
   
-  https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%201/PEC2_1_Desbloqueo%20de%20cuenta.png
+ 
   ![Alt text](  https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%201/PEC2_1_Desbloqueo%20de%20cuenta.png "Desbloqueo de la cuenta"
   
   una vez hemos desbloqueado la cuenta realizamos el registro del nuevo dominio
