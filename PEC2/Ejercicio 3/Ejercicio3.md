@@ -62,7 +62,7 @@ Por medio del hash que nos arroja por consola podemos verificar en el buscador s
  
 ![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%203/PEC_2_3_Dapp%20en%20swarm.png)
 
-
+http://localhost:8500/bzz:/b77e287112fe88a7def87b5aa43d4855dd15c709c94fc289d58df3bc56541ae7/
 
 
 
