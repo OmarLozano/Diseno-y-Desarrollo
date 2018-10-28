@@ -41,7 +41,7 @@ Por último para verificar que la instalción ha sido correcta, revisamos la ver
 ![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%203/PEC_2_3%20creando%20cuenta%20en%20Geth.png)
 
 
-3. Procedemos a conectarnos con nuestra cuenta a swarm.
+3. Procedemos a conectarnos con nuestra cuenta de swarm.
 
 ![alt text](https://github.com/OmarLozano/Diseno-y-Desarrollo/blob/master/PEC2/Ejercicio%203/PEC_2_3%20conectando%20nodo%20a%20swarm.png)
 
