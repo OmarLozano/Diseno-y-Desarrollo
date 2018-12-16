@@ -64,6 +64,8 @@ Retiros:
 
 Se verifica si el saldo de la cuenta desde la que se quiere obtener el retiro cuenta con una cantidad de tokens >= a la que se quiere retirar.
 
+De igual forma de lleva un la trazabilidad de si el usuario ha realizado el retiro, impidiendo que pueda retirar dos veces. Es importante aclarar que lo retiros no conllevan ningún precio para el usuario más allá del precio de la transacción.
+
 Compras:
 
 Se verifica si el saldo de la cuenta desde la que se quiere obtener el retiro cuenta con una cantidad de tokens >= a la que se quiere retirar.
