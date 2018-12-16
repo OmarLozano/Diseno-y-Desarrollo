@@ -101,15 +101,19 @@ Para la activación Panic button se implemento la herencia del contrato Owned ga
 **1
 Se incializa el contrato CompraToken con los valores correctos y se verifica las address de Token y CompraToken**
 Se verifica que los valores en el contrato CompraToken se incializa de acuerdo a los valores establecidos en el migrate y en las condiciones indicadas. De igual manera se verifica si las address de los contratos CompraToken.sol y Token.sol son correctas 
+
 **2
 Al crear el usuario se devuelven los datos correctos**
 Este testing se Realiza para verificar que los datos que se están ingresando en el contrato, a través del front se están registrando de forma apropiada. es importante que los datos mantenga su integridad y por ello se realiza este testing.
+
 **3
 Revisión de la compra y Depostito de Tokens**
 En este testing se verifica el comportamiento de las funciones de transferencia para la compra y deposito de tokens. Se verifica que se acualicen debidamente los valores de los balances y además en el caso de la compra que le precio indicado en la compra sea la correcta. Se verifican los eventos que se generan en cada una de estas operaciones. La verificación se realiza tanto para los contratos CompraToken.sol como Token.sol
+
 **4
 solo permite la creación de máximo 6 usuarios para el ahorro**
 Se verifica que solo permita el alta de 6 usuarios
+
 **5
 solo permite la creación de un usuario por Address**
 Se verifica que para cada address solo se puede dar de alta un usuario
