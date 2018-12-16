@@ -130,3 +130,6 @@ Se verifica que ningún otro address pueda detener el contrato
 solo permite el owner pueda realizar detener el contracto**
 Se verifica que ningún otro address pueda activar el contrato
        
+
+Me he ayudado a través del proyecto de Daap university reflejado en el siguiente repositorio
+https://github.com/dappuniversity/token_sale
